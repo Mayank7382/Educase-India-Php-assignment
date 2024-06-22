@@ -1,7 +1,7 @@
 # Educase-India-Php-assignment
 # Student Management System
 
-A PHP-based web application for managing student records, built as an assignment for [Company Name]. The system allows users to perform CRUD operations on students, manage classes, upload student images, and more.
+A PHP-based web application for managing student records, built as an assignment for Educase India . The system allows users to perform CRUD operations on students, manage classes, upload student images, and more.
 
 ## Key Features
 - Create, Read, Update, and Delete students
@@ -18,13 +18,3 @@ A PHP-based web application for managing student records, built as an assignment
 ## Usage
 - Visit the homepage to view all students and perform actions like adding, editing, and deleting students.
 - Manage classes through the classes page, where you can add, edit, and delete class records.
-
-## Contributing
-Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-For more information, visit [Project Documentation](link-to-docs).
-
-Feel free to customize the description to best suit your project and assignment requirements.
